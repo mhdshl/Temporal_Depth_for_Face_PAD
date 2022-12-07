@@ -6,7 +6,7 @@ Utilizing depth information in simple RGB modality face PAD databases.
 
 A supervised contrastive learning model with ResNet50v2 as the base encoder network.
 
-<img src="/Temporal_Depth_for_Face_PAD/temporal_depth_model.png" alt="Alt text" title="Optional title">
+![Alt text](/posts/Temporal_Depth_for_Face_PAD/temporal_depth_model.png)
 
 ## List of Files
 1. Face_PAD_Supervised_contrastive_RY.ipynb
